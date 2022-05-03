@@ -26,6 +26,6 @@
 ◇ `https://host.single-developers.software?write1=`
 
 ## deploy to heroku ##
-<a href="https://heroku.com/deploy?template=https://github.com/chathush999/music-life">
+<a href="https://heroku.com/deploy?template=https://github.com/chathush999/Image-Tool">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
