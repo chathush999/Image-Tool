@@ -1,10 +1,10 @@
 
-# 🎨 Logo Maker 🎨
-
+#3 🎨 Logo Maker ##
 
 @pbot.on_message(filters.command("logo"))
 async def make_logo(_, message):
     imgcaption = f"""
+
 ☘️ Logo Created Successfully
 ◇───────────────◇
 🔥 Created by : @devid999_bot
@@ -24,7 +24,8 @@ async def make_logo(_, message):
                 [
                     InlineKeyboardButton(
                         "••Telegraph Link••", url=f"{photo}"
-                    )
+                    
+
 ## deploy to heroku ##
 <a href="https://heroku.com/deploy?template=https://github.com/chathush999/Image-Tool">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
